@@ -1,0 +1,39 @@
+Unit I: Introduction, Data, Expressions, and Statements
+S. No.	Question	CO	PO	Remarks
+1	Write a program to calculate the area of a circle and rectangle.	CO1	PO1, PO12	Understand basic Python syntax.
+2	Create a Python script to calculate the sum of three numbers using a function.	CO1	PO1, PO3	Apply operator precedence and functions.
+3	Write a program to convert temperature from Fahrenheit to Celsius.	CO1	PO1, PO2	Work with float and int data types.
+4	Write a program to find the average of a list of numbers using a function.	CO1	PO1, PO3	Demonstrate flow of execution in Python.
+5	Write a program to find the distance between two points using a function.	CO1	PO1, PO2, PO12	Understand parameters and arguments.
+________________________________________
+Unit II: Control Flow and Functions
+S. No.	Question	CO	PO	Remarks
+1	Write a program to check if a number is positive, negative, or zero.	CO2	PO1, PO2	Use conditional statements effectively.
+2	Write a program to print Fibonacci series up to n terms.	CO2	PO1, PO2, PO3	Demonstrate loops and iteration.
+3	Write a recursive function to calculate the sum of natural numbers up to n.	CO2	PO1, PO3	Apply recursion concepts.
+4	Write a program to count the number of vowels in a string.	CO2	PO1, PO2, PO5	Utilize string methods and functions.
+5	Write a program to search for a number in a sorted list using binary search.	CO2	PO2, PO3, PO12	Implement algorithmic problem-solving.
+________________________________________
+Unit III: Lists, Tuples, Dictionaries
+S. No.	Question	CO	PO	Remarks
+1	Write a program to find the maximum and minimum numbers in a list.	CO3	PO1, PO3	Work with list operations.
+2	Write a program to swap two numbers using tuple unpacking.	CO3	PO1, PO3	Utilize tuple concepts.
+3	Write a program to count the frequency of each word in a sentence.	CO3	PO2, PO3	Explore dictionary methods.
+4	Write a program to create a list of squares of even numbers between 1 and 20.	CO3	PO1, PO2, PO12	Understand list comprehensions.
+5	Implement selection sort on a list of numbers.	CO3	PO2, PO5, PO9	Apply sorting algorithms.
+________________________________________
+Unit IV: Files, Modules, Packages
+S. No.	Question	CO	PO	Remarks
+1	Write a program to read a file and count the number of words.	CO4	PO1, PO5	Understand basic file operations.
+2	Write a program to handle file not found errors.	CO4	PO2, PO3	Apply exception handling in Python.
+3	Create a module with basic arithmetic functions.	CO4	PO3, PO9	Build and reuse modules effectively.
+4	Create a package for string manipulation functions.	CO4	PO5, PO12	Demonstrate modular programming skills.
+5	Write a program to copy the contents of one file to another.	CO4	PO3, PO5, PO9	Integrate file handling and logic.
+________________________________________
+Unit V: Python for Data Science
+S. No.	Question	CO	PO	Remarks
+1	Write a program to load a CSV file and print its first 10 rows.	CO5	PO1, PO2	Work with data import techniques.
+2	Normalize a list of numbers to a range of 0-1.	CO5	PO2, PO3	Understand data preprocessing.
+3	Create a bar chart for word frequencies in a text file using Matplotlib.	CO5	PO5, PO12	Implement visualization techniques.
+4	Write a program to query data from an SQLite database.	CO5	PO3, PO5, PO9	Access and manage database data.
+5	Debug a given Python script to fix logical errors.	CO5	PO2, PO5	Apply debugging techniques.
